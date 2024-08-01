@@ -34,6 +34,9 @@ Avg Sales per Transaction = [Total Sales] / COUNT('Sales Data'[Sales Amount])
 ##Visuals
 
 ![Main Dashboard](https://github.com/dev-thememegod/Sales-Data-Dashboard/blob/main/dash.PNG?raw=true)
+![Quater 1 Filter](https://github.com/dev-thememegod/Sales-Data-Dashboard/blob/main/dash1.PNG?raw=true)
+![Quater 2 Filter]()
+![Region]()
 
 
 
