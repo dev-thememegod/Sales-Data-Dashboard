@@ -27,13 +27,13 @@ Quantity: Replaced with 0.
 
 ##DAX Functions/Measures
 
-
-##Visuals
-
-![Alt text for image](URL_of_the_image)
-
 Total Sales = SUM('Sales Data'[Sales Amount])
 
 Avg Sales per Transaction = [Total Sales] / COUNT('Sales Data'[Sales Amount])
+
+##Visuals
+
+![Main Dashboard](https://github.com/dev-thememegod/Sales-Data-Dashboard/blob/main/dash.PNG?raw=true)
+
 
 
