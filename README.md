@@ -35,8 +35,18 @@ Avg Sales per Transaction = [Total Sales] / COUNT('Sales Data'[Sales Amount])
 
 ![Main Dashboard](https://github.com/dev-thememegod/Sales-Data-Dashboard/blob/main/dash.PNG?raw=true)
 ![Quater 1 Filter](https://github.com/dev-thememegod/Sales-Data-Dashboard/blob/main/dash1.PNG?raw=true)
-![Quater 2 Filter]()
-![Region]()
+![Quater 2 Filter](https://github.com/dev-thememegod/Sales-Data-Dashboard/blob/main/dash%202.PNG?raw=true)
+![Region](https://github.com/dev-thememegod/Sales-Data-Dashboard/blob/main/dash%203.PNG?raw=true)
+
+##Technologies Used
+Power BI
+DAX
+Excel (for data preparation)
+
+<h2>License</h2>
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
 
 
 
